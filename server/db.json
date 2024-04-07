@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "login": "123123a",
+      "password": "123123a",
+      "fio": "андрей Александрович ваванов",
+      "phone": "+7(915)-794-88-79",
+      "email": "yruzik@gmail.com",
+      "role": "user",
+      "id": 1,
+      "createdAt": 1712487373173
+    },
+    {
+      "login": "copp",
+      "password": "password",
+      "fio": "Админ Админович Админов",
+      "phone": "+7(915)-794-88-79",
+      "email": "yruzik@gmail.com",
+      "role": "admin",
+      "id": 2,
+      "createdAt": 1712487373173
+    },
+    {
+      "login": "123123aa",
+      "password": "123123a",
+      "fio": "андрей Александрович ваванов",
+      "phone": "+7(915)-794-88-79",
+      "email": "yruzik@gmail.com",
+      "role": "user",
+      "id": 3,
+      "createdAt": 1712495021379
+    }
+  ],
+  "statements": [
+    {
+      "car_number": "ss232s33",
+      "description": "ывапвамчмчсямыфвапфыва",
+      "user_id": 1,
+      "status": "Отменено",
+      "id": 1,
+      "createdAt": 1712491170671
+    },
+    {
+      "car_number": "ss232s33",
+      "description": "ывапвамчмчсямыфвапфыва",
+      "user_id": 3,
+      "status": "Подтверждено",
+      "id": 2,
+      "createdAt": 1712495031290
+    }
+  ]
+}
